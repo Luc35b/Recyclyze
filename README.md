@@ -13,6 +13,17 @@ There is a **history screen** where all the responses for analyzed images and se
 
 ## Demo
 
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;"> 
+  <img src="Demo/IMG_9440.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9421.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9422.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9423.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9424.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9426.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9427.png" width="200" style="margin-right: 10px;">
+  <img src="Demo/IMG_9428.png" width="200" style="margin-right: 10px;">
+</div>
+
 ## Tools Used
 - React Native
 - Expo
