@@ -28,6 +28,6 @@ There is a **history screen** where all the responses for analyzed images and se
 ## Tools Used
 - React Native
 - Expo
-- OpenAI (Vision & Text Generation)
+- OpenAI (Vision & Text Generation) API
 - SQLite
 - Figma
